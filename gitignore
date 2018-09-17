@@ -1,0 +1,8 @@
+import java.util.Scanner;
+
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
